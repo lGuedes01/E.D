@@ -1,0 +1,4 @@
+Foi dito na correção que o programa fechava antes de pedir as entradas. Então alterei o programa e, pra facilitar, coloquei as funções,
+que eram poucas, em apenas um arquivo. 
+Não houve nenhuma melhoria, apenas a remoção da "struct Pos" que havia na questão antiga e alteração do local das bibliotecas, antes
+em um arquivo separado e agora em um arquivo único. Mas não está mais fechando o programa.
